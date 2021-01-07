@@ -1,4 +1,4 @@
-package com.dragosholban.androidfacedetection;
+package com.androidfacedetection;
 
 import android.app.Activity;
 import android.app.AlertDialog;

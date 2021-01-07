@@ -1,4 +1,4 @@
-package com.dragosholban.androidfacedetection;
+package com.androidfacedetection;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.dragosholban.androidfacedetection", appContext.getPackageName());
+        assertEquals("com.androidfacedetection", appContext.getPackageName());
     }
 }

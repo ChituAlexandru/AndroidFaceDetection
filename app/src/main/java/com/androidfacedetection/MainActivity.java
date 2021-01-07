@@ -1,4 +1,4 @@
-package com.dragosholban.androidfacedetection;
+package com.androidfacedetection;
 
 import android.Manifest;
 import android.content.Intent;

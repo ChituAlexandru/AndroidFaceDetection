@@ -1,4 +1,4 @@
-package com.dragosholban.androidfacedetection;
+package com.androidfacedetection;
 
 import android.content.Intent;
 import android.graphics.Bitmap;

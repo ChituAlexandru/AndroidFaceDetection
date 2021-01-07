@@ -1,4 +1,4 @@
-package com.dragosholban.androidfacedetection;
+package com.androidfacedetection;
 
 public class ComputingParameters {
     private static double[] areas;

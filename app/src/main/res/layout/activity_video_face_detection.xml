@@ -6,16 +6,16 @@
     android:layout_height="match_parent"
     tools:context=".VideoFaceDetectionActivity">
 
-    <com.dragosholban.androidfacedetection.CameraPreview
+    <com.androidfacedetection.CameraPreview
         android:id="@+id/preview"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <com.dragosholban.androidfacedetection.GraphicOverlay
+        <com.androidfacedetection.GraphicOverlay
             android:id="@+id/faceOverlay"
             android:layout_width="match_parent"
             android:layout_height="match_parent" />
 
-    </com.dragosholban.androidfacedetection.CameraPreview>
+    </com.androidfacedetection.CameraPreview>
 
 </android.support.constraint.ConstraintLayout>
